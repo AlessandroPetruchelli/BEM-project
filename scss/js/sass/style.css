@@ -1,0 +1,11 @@
+p {
+  border-radius: 10px 0 10px 0;
+  border: 2px solid rebeccapurple;
+  -webkit-box-shadow: 3px 3px 5px yellowgreen;
+          box-shadow: 3px 3px 5px yellowgreen;
+  background-color: #f0f09a;
+  font-size: 20px;
+  color: blue;
+  font-weight: 700;
+}
+/*# sourceMappingURL=style.css.map */
